@@ -8,4 +8,4 @@ elif "shirt" not in a: print("shirt")
 elif "need" in a: print("need")
 else: print("none")
 
-# 수정테스트
+# 정답은 shirt
